@@ -12,7 +12,7 @@ You can try it like this:
 ```ruby
 TheCheeseMaze.new(maze: $maze, mouse_pos: $mouse_pos, cheese_pos: $cheese_pos).solve
 ```
-You can  in order to only see the path in coords. You can visualize the maze passing **visual: true** and also find the shortest path sending **shortest_path: true** to the call like this:
+This way you only see the path as coords array. You can visualize the maze passing **visual: true** and also find the shortest path sending **shortest_path: true** to the call like this:
 ```ruby
 TheCheeseMaze.new(maze: $maze, mouse_pos: $mouse_pos, cheese_pos: $cheese_pos).solve(shortest_path: true, visual: true)
 ```
