@@ -1,6 +1,6 @@
 # The Cheese Maze
 Given a **maze** (2D array), **source point** (mouse position) and **destination** (cheese position). Find the path and return it.  
-Here I learned about DFS & BFS. This was a test for Lemontech time ago. (Info below)
+Here I learned about DFS & BFS. This was a test for *Lemontech* time ago. (Info below)
 
 So I created a Ruby Class that allows not only to find the path, but also give you a visual representation if you want it. You can choose to use DFS or BFS.
 
